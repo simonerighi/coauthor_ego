@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Academic Co-authorship Ego Network</title>
+  <!-- Load D3.js from CDN -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; }
+    .node { stroke: #fff; stroke-width: 1.5px; }
+    .edge { stroke: #999; opacity: 0.6; }
+    .tooltip {
+      position: absolute;
+      text-align: left;
+      padding: 8px;
+      font-size: 12px;
+      background: lightsteelblue;
+      border: 1px solid #333;
+      border-radius: 4px;
+      pointer-events: none;
+    }
+    .legend { font-size: 12px; }
+    .control-panel { margin-bottom: 10px; }
+  </style>
+</head>
+<body>
+  <h2>Academic Co-authorship Ego Network</h2>
+  <!-- Control Panel for interactivity -->
+  <div class="control-panel">
+    <label for="yearRange">Year Filter:</label>
+    <input type="range" id="yearRange" min="2000" max="2025" value="2025" step="1">
+    <span id="yearLabel">Up to 2025</span>
+    &nbsp;&nbsp;
+    <label for="edgeThreshold">Min Collaborations:</label>
+    <input type="number" id="edgeThreshold" value="1" min="1">
+    &nbsp;&nbsp;
+    <input type="checkbox" id="toggleLabels" checked> Show Labels
+    &nbsp;&nbsp;
+    <button id="detectCommunities">Detect Communities</button>
+  </div>
+  <!-- SVG for the network -->
+  <svg id="network" width="800" height="600"></svg>
+
+  <!-- Legend for node colors -->
+  <div id="legend" class="legend"></div>
+
+  <!-- Explanation text below the visualization -->
+  <div id="explanation">
+    <p>
+      This interactive network visualization shows you as the central node with your co-authors surrounding you.
+      Each edge represents a co-authored paper. Edges between co-authors are drawn only when they have collaborated on a paper that did not include you.
+      The thickness of an edge indicates the number of joint publications, and node sizes reflect how often you have collaborated with that author.
+      Node colors represent the primary scientific field of the publication. Use the controls above to filter the network by year,
+      adjust the minimum collaboration threshold, toggle labels, or highlight communities of collaborators.
+    </p>
+  </div>
+
+  <script>
+    // URL to load your JSON graph data (update this with your hosted JSON file URL)
+    const dataURL = "https://your-public-host.com/graph_data.json";
+
+    const svg = d3.select("#network");
+    const width = +svg.attr("width");
+    const height = +svg.attr("height");
+
+    // Define tooltip
+    const tooltip = d3.select("body").append("div")
+                      .attr("class", "tooltip")
+                      .style("opacity", 0);
+
+    // Scales for node size and edge thickness
+    const sizeScale = d3.scaleLinear().range([5, 20]); // node radius
+    const thicknessScale = d3.scaleLinear().range([1, 5]); // edge stroke width
+    const colorScale = d3.scaleOrdinal(d3.schemeCategory10);
+
+    let graphData, simulation, link, node, label;
+
+    // Load the graph data
+    d3.json(dataURL).then(data => {
+      graphData = data;
+
+      // Set domains for scales based on data
+      const maxCollab = d3.max(graphData.nodes, d => d.total_collaborations) || 1;
+      sizeScale.domain([0, maxCollab]);
+      const maxWeight = d3.max(graphData.edges, d => d.weight) || 1;
+      thicknessScale.domain([0, maxWeight]);
+
+      // Initialize simulation (approximating a Kamada-Kawai layout)
+      simulation = d3.forceSimulation(graphData.nodes)
+          .force("link", d3.forceLink(graphData.edges).id(d => d.id).distance(100))
+          .force("charge", d3.forceManyBody().strength(-200))
+          .force("center", d3.forceCenter(width / 2, height / 2))
+          .on("tick", ticked);
+
+      // Draw edges
+      link = svg.append("g")
+                .attr("class", "edges")
+                .selectAll("line")
+                .data(graphData.edges)
+                .enter().append("line")
+                .attr("class", "edge")
+                .attr("stroke-width", d => thicknessScale(d.weight));
+
+      // Draw nodes
+      node = svg.append("g")
+                .attr("class", "nodes")
+                .selectAll("circle")
+                .data(graphData.nodes)
+                .enter().append("circle")
+                .attr("class", "node")
+                .attr("r", d => sizeScale(d.total_collaborations))
+                .attr("fill", d => {
+                  // Use the first field from the ego's publications as a proxy, if available
+                  return colorScale(d.field || "default");
+                })
+                .call(drag(simulation))
+                .on("mouseover", (event, d) => {
+                  tooltip.transition().duration(200).style("opacity", .9);
+                  tooltip.html(`<strong>${d.name}</strong><br/>Collaborations: ${d.total_collaborations}`)
+                         .style("left", (event.pageX + 5) + "px")
+                         .style("top", (event.pageY - 28) + "px");
+                })
+                .on("mouseout", () => {
+                  tooltip.transition().duration(500).style("opacity", 0);
+                });
+
+      // Draw labels
+      label = svg.append("g")
+                 .attr("class", "labels")
+                 .selectAll("text")
+                 .data(graphData.nodes)
+                 .enter().append("text")
+                 .attr("dy", ".35em")
+                 .attr("x", 6)
+                 .text(d => d.name)
+                 .style("font-size", "10px");
+
+      // Build legend (example: using the color scale categories)
+      buildLegend();
+
+    }).catch(error => console.error("Error loading graph data:", error));
+
+    // Drag functionality
+    function drag(simulation) {
+      function dragstarted(event, d) {
+        if (!event.active) simulation.alphaTarget(0.3).restart();
+        d.fx = d.x;
+        d.fy = d.y;
+      }
+      
+      function dragged(event, d) {
+        d.fx = event.x;
+        d.fy = event.y;
+      }
+      
+      function dragended(event, d) {
+        if (!event.active) simulation.alphaTarget(0);
+        d.fx = null;
+        d.fy = null;
+      }
+      
+      return d3.drag()
+               .on("start", dragstarted)
+               .on("drag", dragged)
+               .on("end", dragended);
+    }
+
+    // Simulation tick function to update positions
+    function ticked() {
+      link
+          .attr("x1", d => d.source.x)
+          .attr("y1", d => d.source.y)
+          .attr("x2", d => d.target.x)
+          .attr("y2", d => d.target.y);
+
+      node
+          .attr("cx", d => d.x)
+          .attr("cy", d => d.y);
+
+      label
+          .attr("x", d => d.x + 6)
+          .attr("y", d => d.y);
+    }
+
+    // Toggle labels on/off
+    d3.select("#toggleLabels").on("change", function() {
+      label.style("display", this.checked ? "block" : "none");
+    });
+
+    // Year filter functionality
+    d3.select("#yearRange").on("input", function() {
+      const selectedYear = +this.value;
+      d3.select("#yearLabel").text("Up to " + selectedYear);
+      updateGraph();
+    });
+
+    // Edge threshold filter
+    d3.select("#edgeThreshold").on("input", function() {
+      updateGraph();
+    });
+
+    // Function to update the graph based on filters
+    function updateGraph() {
+      if (!graphData) return;
+      
+      const selectedYear = +d3.select("#yearRange").property("value");
+      const minCollab = +d3.select("#edgeThreshold").property("value");
+
+      // Filter edges by year (keep edges that have at least one publication up to the selected year)
+      const filteredEdges = graphData.edges.filter(d =>
+        d.weight >= minCollab &&
+        d.years.some(y => y <= selectedYear)
+      );
+
+      // Update links
+      link = svg.select(".edges").selectAll("line")
+                .data(filteredEdges, d => d.source + "-" + d.target);
+
+      link.exit().remove();
+
+      link.enter().append("line")
+          .attr("class", "edge")
+          .attr("stroke-width", d => thicknessScale(d.weight))
+          .merge(link);
+
+      // Optionally, you can filter nodes based on connectivity here.
+      // Restart simulation with new data.
+      simulation.force("link").links(filteredEdges);
+      simulation.alpha(0.8).restart();
+    }
+
+    // Basic Community Detection (Louvain algorithm placeholder)
+    // In a real application, include a Louvain algorithm library or implement one.
+    d3.select("#detectCommunities").on("click", function() {
+      alert("Community detection is running. (This is a placeholder – integrate a Louvain algorithm library for full functionality.)");
+      // After detecting communities, you could update node colors to reflect clusters.
+    });
+
+    // Build a simple legend for node colors
+    function buildLegend() {
+      const legendDiv = d3.select("#legend");
+      legendDiv.html("<strong>Field Legend:</strong><br/>");
+      // Example categories – in practice, extract unique fields from your data.
+      const categories = colorScale.domain();
+      categories.forEach(cat => {
+        legendDiv.append("div")
+                 .html(`<span style="display:inline-block;width:12px;height:12px;background:${colorScale(cat)};"></span> ${cat}`);
+      });
+    }
+  </script>
+</body>
+</html>

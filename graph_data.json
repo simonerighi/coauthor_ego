@@ -1,0 +1,4171 @@
+{
+  "nodes": [
+    {
+      "id": "https://openalex.org/A5004798560",
+      "name": "Ego (You)",
+      "total_collaborations": 0
+    },
+    {
+      "id": "https://openalex.org/A5001066958",
+      "name": "Timotéo Carletti",
+      "total_collaborations": 10
+    },
+    {
+      "id": "https://openalex.org/A5078807791",
+      "name": "Matthew Grainger",
+      "total_collaborations": 10
+    },
+    {
+      "id": "https://openalex.org/A5086731887",
+      "name": "L.H. Aramyan",
+      "total_collaborations": 6
+    },
+    {
+      "id": "https://openalex.org/A5001722310",
+      "name": "Katja Logatcheva",
+      "total_collaborations": 3
+    },
+    {
+      "id": "https://openalex.org/A5069665260",
+      "name": "Simone Piras",
+      "total_collaborations": 17
+    },
+    {
+      "id": "https://openalex.org/A5026065319",
+      "name": "Marco Setti",
+      "total_collaborations": 17
+    },
+    {
+      "id": "https://openalex.org/A5011469490",
+      "name": "Matteo Vittuari",
+      "total_collaborations": 14
+    },
+    {
+      "id": "https://openalex.org/A5069998604",
+      "name": "Gavin Stewart",
+      "total_collaborations": 8
+    },
+    {
+      "id": "https://openalex.org/A5001214979",
+      "name": "Francesca Pancotto",
+      "total_collaborations": 13
+    },
+    {
+      "id": "https://openalex.org/A5013933082",
+      "name": "Shirsendu Podder",
+      "total_collaborations": 5
+    },
+    {
+      "id": "https://openalex.org/A5013376058",
+      "name": "Federico Banchelli",
+      "total_collaborations": 3
+    },
+    {
+      "id": "https://openalex.org/A5012033596",
+      "name": "Claudia Giordano",
+      "total_collaborations": 3
+    },
+    {
+      "id": "https://openalex.org/A5103578609",
+      "name": "Thomas E. Quested",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5062547612",
+      "name": "Nazli Koseoglu",
+      "total_collaborations": 3
+    },
+    {
+      "id": "https://openalex.org/A5015566794",
+      "name": "Károly Takács",
+      "total_collaborations": 25
+    },
+    {
+      "id": "https://openalex.org/A5083633035",
+      "name": "Elias Carroni",
+      "total_collaborations": 11
+    },
+    {
+      "id": "https://openalex.org/A5070815266",
+      "name": "Paolo Pin",
+      "total_collaborations": 5
+    },
+    {
+      "id": "https://openalex.org/A5012905189",
+      "name": "Pasquale Pavone",
+      "total_collaborations": 3
+    },
+    {
+      "id": "https://openalex.org/A5087734634",
+      "name": "Francesco Pagliacci",
+      "total_collaborations": 4
+    },
+    {
+      "id": "https://openalex.org/A5086651579",
+      "name": "Margherita Russo",
+      "total_collaborations": 11
+    },
+    {
+      "id": "https://openalex.org/A5060127487",
+      "name": "Annamaria Giorgi",
+      "total_collaborations": 2
+    },
+    {
+      "id": "https://openalex.org/A5049211935",
+      "name": "Fabrizio Alboni",
+      "total_collaborations": 2
+    },
+    {
+      "id": "https://openalex.org/A5026353568",
+      "name": "Jorge Carreto Sanginés",
+      "total_collaborations": 2
+    },
+    {
+      "id": "https://openalex.org/A5019170728",
+      "name": "Manlio De Domenico",
+      "total_collaborations": 2
+    },
+    {
+      "id": "https://openalex.org/A5015254027",
+      "name": "Giuseppe Mangioni",
+      "total_collaborations": 2
+    },
+    {
+      "id": "https://openalex.org/A5082428017",
+      "name": "Annamaria Simonazzi",
+      "total_collaborations": 2
+    },
+    {
+      "id": "https://openalex.org/A5048434153",
+      "name": "Yuri Biondi",
+      "total_collaborations": 9
+    },
+    {
+      "id": "https://openalex.org/A5056557463",
+      "name": "Francesca Giardini",
+      "total_collaborations": 4
+    },
+    {
+      "id": "https://openalex.org/A5073176948",
+      "name": "Duccio Fanelli",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5032460241",
+      "name": "Gani Aldashev",
+      "total_collaborations": 3
+    },
+    {
+      "id": "https://openalex.org/A5063681660",
+      "name": "Luca Ferrari",
+      "total_collaborations": 4
+    },
+    {
+      "id": "https://openalex.org/A5037430038",
+      "name": "Moritz Platt",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5102892022",
+      "name": "Francesco Pierangeli",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5040844400",
+      "name": "Giacomo Livan",
+      "total_collaborations": 5
+    },
+    {
+      "id": "https://openalex.org/A5068727780",
+      "name": "Riccardo Righi",
+      "total_collaborations": 5
+    },
+    {
+      "id": "https://openalex.org/A5018822374",
+      "name": "Alessia Pedrazzoli",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5075493211",
+      "name": "Valeria Venturelli",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5041505017",
+      "name": "Mingtang Li",
+      "total_collaborations": 3
+    },
+    {
+      "id": "https://openalex.org/A5076158939",
+      "name": "Matteo Masotti",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5010591212",
+      "name": "Cansu Kandemir",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5056351857",
+      "name": "Christian Reynolds",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5102331810",
+      "name": "Monika Verma",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5023312789",
+      "name": "Tom Quested",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5030973042",
+      "name": "Annalisa Caloffi",
+      "total_collaborations": 4
+    },
+    {
+      "id": "https://openalex.org/A5009652126",
+      "name": "Federica Rossi",
+      "total_collaborations": 2
+    },
+    {
+      "id": "https://openalex.org/A5064693182",
+      "name": "Federica Rossi",
+      "total_collaborations": 2
+    },
+    {
+      "id": "https://openalex.org/A5054415777",
+      "name": "Maurizio Casoni",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5063215819",
+      "name": "Manuela Farinosi",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5054616837",
+      "name": "Leopoldina Fortunati",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5053606241",
+      "name": "Cristina Garzillo",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5042838583",
+      "name": "Michael Guggenheim",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5010104735",
+      "name": "Paolo Lauriola",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5012174596",
+      "name": "Biagio Oppi",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5039408094",
+      "name": "Stefano Pedrazzi",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5015257271",
+      "name": "Katrina Petersen",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5007379202",
+      "name": "Marco Villani",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5070468952",
+      "name": "F. Codeluppi",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5058356865",
+      "name": "G.B. Steward",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5024753832",
+      "name": "Gavin R. Stewart",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5065726413",
+      "name": "Roberto Porcelli",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5020128244",
+      "name": "Federica Dotto",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5028387518",
+      "name": "A. Contin",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5075799379",
+      "name": "S. Boero",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5038211904",
+      "name": "Marco Mazzotti",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5022437661",
+      "name": "Riccardo Righi",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5072560560",
+      "name": "Fabio Caccioli",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5035375830",
+      "name": "Tiziana Di Matteo",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5040337779",
+      "name": "Giulia Iori",
+      "total_collaborations": 1
+    },
+    {
+      "id": "https://openalex.org/A5051525389",
+      "name": "Saqib Jafarey",
+      "total_collaborations": 1
+    }
+  ],
+  "edges": [
+    {
+      "source": "https://openalex.org/A5001066958",
+      "target": "https://openalex.org/A5004798560",
+      "weight": 10,
+      "with_ego": true,
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ],
+      "fields": [
+        "Inefficiency",
+        "Fractal",
+        "Social network (sociolinguistics)",
+        "Computer science",
+        "Reputation",
+        "Network topology"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5078807791",
+      "target": "https://openalex.org/A5086731887",
+      "weight": 5,
+      "with_ego": true,
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001722310",
+      "target": "https://openalex.org/A5078807791",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2017,
+        2018
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5069665260",
+      "target": "https://openalex.org/A5078807791",
+      "weight": 10,
+      "with_ego": true,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Cognitive dissonance",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5078807791",
+      "weight": 10,
+      "with_ego": true,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Cognitive dissonance",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5026065319",
+      "target": "https://openalex.org/A5078807791",
+      "weight": 10,
+      "with_ego": true,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Cognitive dissonance",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5011469490",
+      "target": "https://openalex.org/A5078807791",
+      "weight": 10,
+      "with_ego": true,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Cognitive dissonance",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5069998604",
+      "target": "https://openalex.org/A5078807791",
+      "weight": 8,
+      "with_ego": true,
+      "years": [
+        2016,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Cognitive dissonance",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001722310",
+      "target": "https://openalex.org/A5086731887",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5069665260",
+      "target": "https://openalex.org/A5086731887",
+      "weight": 6,
+      "with_ego": true,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5086731887",
+      "weight": 6,
+      "with_ego": true,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5026065319",
+      "target": "https://openalex.org/A5086731887",
+      "weight": 6,
+      "with_ego": true,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5011469490",
+      "target": "https://openalex.org/A5086731887",
+      "weight": 6,
+      "with_ego": true,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5069998604",
+      "target": "https://openalex.org/A5086731887",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2016,
+        2018
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001722310",
+      "target": "https://openalex.org/A5069665260",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001722310",
+      "target": "https://openalex.org/A5004798560",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001722310",
+      "target": "https://openalex.org/A5026065319",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001722310",
+      "target": "https://openalex.org/A5011469490",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001722310",
+      "target": "https://openalex.org/A5069998604",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2018
+      ],
+      "fields": [
+        "Eurobarometer"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5069665260",
+      "weight": 17,
+      "with_ego": true,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Cognitive dissonance",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5026065319",
+      "target": "https://openalex.org/A5069665260",
+      "weight": 17,
+      "with_ego": true,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Cognitive dissonance",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5011469490",
+      "target": "https://openalex.org/A5069665260",
+      "weight": 14,
+      "with_ego": true,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Cognitive dissonance",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5069665260",
+      "target": "https://openalex.org/A5069998604",
+      "weight": 8,
+      "with_ego": true,
+      "years": [
+        2016,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Cognitive dissonance",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5026065319",
+      "weight": 17,
+      "with_ego": true,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Cognitive dissonance",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5011469490",
+      "weight": 14,
+      "with_ego": true,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Cognitive dissonance",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5069998604",
+      "weight": 8,
+      "with_ego": true,
+      "years": [
+        2016,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Cognitive dissonance",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5011469490",
+      "target": "https://openalex.org/A5026065319",
+      "weight": 14,
+      "with_ego": true,
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Cognitive dissonance",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5026065319",
+      "target": "https://openalex.org/A5069998604",
+      "weight": 8,
+      "with_ego": true,
+      "years": [
+        2016,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Cognitive dissonance",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5011469490",
+      "target": "https://openalex.org/A5069998604",
+      "weight": 8,
+      "with_ego": true,
+      "years": [
+        2016,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Eurobarometer",
+        "Cognitive dissonance",
+        "Protocol (science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001214979",
+      "target": "https://openalex.org/A5069665260",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2018,
+        2021
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001214979",
+      "target": "https://openalex.org/A5004798560",
+      "weight": 13,
+      "with_ego": true,
+      "years": [
+        2017,
+        2018,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "fields": [
+        "Sociality",
+        "Public goods game",
+        "Business",
+        "Natural disaster",
+        "Food waste",
+        "Prosocial behavior",
+        "Reputation",
+        "Punishment (psychology)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001214979",
+      "target": "https://openalex.org/A5011469490",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2018,
+        2021
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001214979",
+      "target": "https://openalex.org/A5026065319",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2018,
+        2021
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5013933082",
+      "weight": 5,
+      "with_ego": true,
+      "years": [
+        2021,
+        2023
+      ],
+      "fields": [
+        "Public goods game",
+        "Reputation",
+        "Social dilemma"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001214979",
+      "target": "https://openalex.org/A5013933082",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2021
+      ],
+      "fields": [
+        "Public goods game",
+        "Reputation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5013376058",
+      "target": "https://openalex.org/A5069665260",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5012033596",
+      "target": "https://openalex.org/A5069665260",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5013376058",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5012033596",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5012033596",
+      "target": "https://openalex.org/A5013376058",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5013376058",
+      "target": "https://openalex.org/A5026065319",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5012033596",
+      "target": "https://openalex.org/A5026065319",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5078807791",
+      "target": "https://openalex.org/A5103578609",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2018
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5086731887",
+      "target": "https://openalex.org/A5103578609",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2018
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5069665260",
+      "target": "https://openalex.org/A5103578609",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2018
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5103578609",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2018
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5026065319",
+      "target": "https://openalex.org/A5103578609",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2018
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5011469490",
+      "target": "https://openalex.org/A5103578609",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2018
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5069998604",
+      "target": "https://openalex.org/A5103578609",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2018
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5062547612",
+      "target": "https://openalex.org/A5069665260",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Cognitive dissonance"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5062547612",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Cognitive dissonance"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5026065319",
+      "target": "https://openalex.org/A5062547612",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Cognitive dissonance"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5062547612",
+      "target": "https://openalex.org/A5078807791",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Cognitive dissonance"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5062547612",
+      "target": "https://openalex.org/A5069998604",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Cognitive dissonance"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5011469490",
+      "target": "https://openalex.org/A5062547612",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2021
+      ],
+      "fields": [
+        "Food waste",
+        "Cognitive dissonance"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5015566794",
+      "weight": 25,
+      "with_ego": true,
+      "years": [
+        2013,
+        2014,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "fields": [
+        "Reciprocity (cultural anthropology)",
+        "Generalizability theory",
+        "Gossip",
+        "Miracle",
+        "Prisoner's dilemma",
+        "Initialization",
+        "Reputation",
+        "Psychology",
+        "Punishment (psychology)",
+        "Network topology"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5070815266",
+      "target": "https://openalex.org/A5083633035",
+      "weight": 5,
+      "with_ego": true,
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "fields": [
+        "Business",
+        "Influencer marketing",
+        "Incentive"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5083633035",
+      "weight": 11,
+      "with_ego": true,
+      "years": [
+        2014,
+        2015,
+        2017,
+        2018,
+        2019
+      ],
+      "fields": [
+        "Persuasion",
+        "Influencer marketing",
+        "Banner",
+        "Business",
+        "Computer science",
+        "Incentive"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5070815266",
+      "weight": 5,
+      "with_ego": true,
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "fields": [
+        "Business",
+        "Influencer marketing",
+        "Incentive"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5012905189",
+      "target": "https://openalex.org/A5087734634",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2019,
+        2020
+      ],
+      "fields": [
+        "Cluster analysis",
+        "Categorical variable"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5012905189",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2016,
+        2019,
+        2020
+      ],
+      "fields": [
+        "Cluster analysis",
+        "Categorical variable",
+        "Legislature"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5012905189",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2016,
+        2019,
+        2020
+      ],
+      "fields": [
+        "Cluster analysis",
+        "Categorical variable",
+        "Legislature"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5012905189",
+      "target": "https://openalex.org/A5060127487",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2019,
+        2020
+      ],
+      "fields": [
+        "Cluster analysis",
+        "Categorical variable"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5086651579",
+      "target": "https://openalex.org/A5087734634",
+      "weight": 4,
+      "with_ego": true,
+      "years": [
+        2016,
+        2019,
+        2020
+      ],
+      "fields": [
+        "Cluster analysis",
+        "Categorical variable",
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5087734634",
+      "weight": 4,
+      "with_ego": true,
+      "years": [
+        2016,
+        2019,
+        2020
+      ],
+      "fields": [
+        "Cluster analysis",
+        "Categorical variable",
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5060127487",
+      "target": "https://openalex.org/A5087734634",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2019,
+        2020
+      ],
+      "fields": [
+        "Cluster analysis",
+        "Categorical variable"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 11,
+      "with_ego": true,
+      "years": [
+        2015,
+        2016,
+        2019,
+        2020,
+        2022,
+        2023
+      ],
+      "fields": [
+        "Regionalisation",
+        "Legislature",
+        "Resilience (materials science)",
+        "Categorical variable",
+        "Business",
+        "Automotive industry",
+        "Cluster analysis",
+        "Intermediary"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5060127487",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2019,
+        2020
+      ],
+      "fields": [
+        "Cluster analysis",
+        "Categorical variable"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5060127487",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2019,
+        2020
+      ],
+      "fields": [
+        "Cluster analysis",
+        "Categorical variable"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5049211935",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5026353568",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5019170728",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5015254027",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5082428017",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5026353568",
+      "target": "https://openalex.org/A5049211935",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5019170728",
+      "target": "https://openalex.org/A5049211935",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5015254027",
+      "target": "https://openalex.org/A5049211935",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5049211935",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5049211935",
+      "target": "https://openalex.org/A5082428017",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5019170728",
+      "target": "https://openalex.org/A5026353568",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5015254027",
+      "target": "https://openalex.org/A5026353568",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5026353568",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5026353568",
+      "target": "https://openalex.org/A5082428017",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5015254027",
+      "target": "https://openalex.org/A5019170728",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5019170728",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5019170728",
+      "target": "https://openalex.org/A5082428017",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5015254027",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5015254027",
+      "target": "https://openalex.org/A5082428017",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5082428017",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023
+      ],
+      "fields": [
+        "Automotive industry",
+        "Regionalisation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5048434153",
+      "weight": 9,
+      "with_ego": true,
+      "years": [
+        2013,
+        2015,
+        2017,
+        2019
+      ],
+      "fields": [
+        "Inequality",
+        "Market liquidity",
+        "Economics",
+        "Monetary economics",
+        "Stylized fact",
+        "Volatility (finance)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5013933082",
+      "target": "https://openalex.org/A5015566794",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2021
+      ],
+      "fields": [
+        "Reputation"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001214979",
+      "target": "https://openalex.org/A5056557463",
+      "weight": 4,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023,
+        2024
+      ],
+      "fields": [
+        "Business",
+        "Prosocial behavior",
+        "Natural disaster"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5056557463",
+      "weight": 4,
+      "with_ego": true,
+      "years": [
+        2022,
+        2023,
+        2024
+      ],
+      "fields": [
+        "Business",
+        "Prosocial behavior",
+        "Natural disaster"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001066958",
+      "target": "https://openalex.org/A5073176948",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2011
+      ],
+      "fields": [
+        "Social network (sociolinguistics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5073176948",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2011
+      ],
+      "fields": [
+        "Social network (sociolinguistics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001066958",
+      "target": "https://openalex.org/A5032460241",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2010,
+        2011,
+        2012
+      ],
+      "fields": [
+        "Inefficiency"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5032460241",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2010,
+        2011,
+        2012
+      ],
+      "fields": [
+        "Inefficiency"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5063681660",
+      "target": "https://openalex.org/A5083633035",
+      "weight": 4,
+      "with_ego": true,
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "fields": [
+        "Persuasion",
+        "Computer science",
+        "Banner"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5063681660",
+      "weight": 4,
+      "with_ego": true,
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "fields": [
+        "Persuasion",
+        "Computer science",
+        "Banner"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5037430038",
+      "target": "https://openalex.org/A5102892022",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Cryptocurrency"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5037430038",
+      "target": "https://openalex.org/A5040844400",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Cryptocurrency"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5037430038",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Cryptocurrency"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5040844400",
+      "target": "https://openalex.org/A5102892022",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Cryptocurrency"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5102892022",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Cryptocurrency"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5040844400",
+      "weight": 5,
+      "with_ego": true,
+      "years": [
+        2020,
+        2022,
+        2023,
+        2024
+      ],
+      "fields": [
+        "Novelty",
+        "Cryptocurrency",
+        "Data science",
+        "Intuition",
+        "Productivity"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001214979",
+      "target": "https://openalex.org/A5015566794",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2020,
+        2023
+      ],
+      "fields": [
+        "Punishment (psychology)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5018822374",
+      "target": "https://openalex.org/A5068727780",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2024
+      ],
+      "fields": [
+        "Equity crowdfunding"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5068727780",
+      "weight": 5,
+      "with_ego": true,
+      "years": [
+        2015,
+        2016,
+        2019,
+        2024
+      ],
+      "fields": [
+        "Legislature",
+        "Business",
+        "Equity crowdfunding",
+        "Intermediary"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5068727780",
+      "target": "https://openalex.org/A5075493211",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2024
+      ],
+      "fields": [
+        "Equity crowdfunding"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5018822374",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2024
+      ],
+      "fields": [
+        "Equity crowdfunding"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5018822374",
+      "target": "https://openalex.org/A5075493211",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2024
+      ],
+      "fields": [
+        "Equity crowdfunding"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5075493211",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2024
+      ],
+      "fields": [
+        "Equity crowdfunding"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5040844400",
+      "target": "https://openalex.org/A5041505017",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2023,
+        2024
+      ],
+      "fields": [
+        "Productivity",
+        "Novelty",
+        "Intuition"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5041505017",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2023,
+        2024
+      ],
+      "fields": [
+        "Productivity",
+        "Novelty",
+        "Intuition"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5076158939",
+      "target": "https://openalex.org/A5086731887",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2019
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001722310",
+      "target": "https://openalex.org/A5076158939",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2019
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5069665260",
+      "target": "https://openalex.org/A5076158939",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2019
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5076158939",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2019
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5011469490",
+      "target": "https://openalex.org/A5076158939",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2019
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5026065319",
+      "target": "https://openalex.org/A5076158939",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2019
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010591212",
+      "target": "https://openalex.org/A5056351857",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010591212",
+      "target": "https://openalex.org/A5102331810",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010591212",
+      "target": "https://openalex.org/A5078807791",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010591212",
+      "target": "https://openalex.org/A5069998604",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5010591212",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010591212",
+      "target": "https://openalex.org/A5069665260",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010591212",
+      "target": "https://openalex.org/A5026065319",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010591212",
+      "target": "https://openalex.org/A5011469490",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010591212",
+      "target": "https://openalex.org/A5023312789",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5056351857",
+      "target": "https://openalex.org/A5102331810",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5056351857",
+      "target": "https://openalex.org/A5078807791",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5056351857",
+      "target": "https://openalex.org/A5069998604",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5056351857",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5056351857",
+      "target": "https://openalex.org/A5069665260",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5026065319",
+      "target": "https://openalex.org/A5056351857",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5011469490",
+      "target": "https://openalex.org/A5056351857",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5023312789",
+      "target": "https://openalex.org/A5056351857",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5078807791",
+      "target": "https://openalex.org/A5102331810",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5069998604",
+      "target": "https://openalex.org/A5102331810",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5102331810",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5069665260",
+      "target": "https://openalex.org/A5102331810",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5026065319",
+      "target": "https://openalex.org/A5102331810",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5011469490",
+      "target": "https://openalex.org/A5102331810",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5023312789",
+      "target": "https://openalex.org/A5102331810",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5023312789",
+      "target": "https://openalex.org/A5078807791",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5023312789",
+      "target": "https://openalex.org/A5069998604",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5023312789",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5023312789",
+      "target": "https://openalex.org/A5069665260",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5023312789",
+      "target": "https://openalex.org/A5026065319",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5011469490",
+      "target": "https://openalex.org/A5023312789",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2020
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5030973042",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 4,
+      "with_ego": true,
+      "years": [
+        2015,
+        2016,
+        2019
+      ],
+      "fields": [
+        "Business",
+        "Intermediary"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5068727780",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 4,
+      "with_ego": true,
+      "years": [
+        2015,
+        2016,
+        2019
+      ],
+      "fields": [
+        "Legislature",
+        "Business",
+        "Intermediary"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5009652126",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2019
+      ],
+      "fields": [
+        "Business",
+        "Intermediary"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5030973042",
+      "target": "https://openalex.org/A5068727780",
+      "weight": 3,
+      "with_ego": true,
+      "years": [
+        2015,
+        2016,
+        2019
+      ],
+      "fields": [
+        "Business",
+        "Intermediary"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5030973042",
+      "weight": 4,
+      "with_ego": true,
+      "years": [
+        2015,
+        2016,
+        2019
+      ],
+      "fields": [
+        "Business",
+        "Intermediary"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5009652126",
+      "target": "https://openalex.org/A5030973042",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2019
+      ],
+      "fields": [
+        "Business",
+        "Intermediary"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5009652126",
+      "target": "https://openalex.org/A5068727780",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2019
+      ],
+      "fields": [
+        "Intermediary"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5009652126",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2019
+      ],
+      "fields": [
+        "Business",
+        "Intermediary"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5012905189",
+      "target": "https://openalex.org/A5068727780",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Legislature"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5064693182",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2015,
+        2016
+      ],
+      "fields": [
+        "Business",
+        "Intermediary"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5030973042",
+      "target": "https://openalex.org/A5064693182",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2015,
+        2016
+      ],
+      "fields": [
+        "Business",
+        "Intermediary"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5064693182",
+      "target": "https://openalex.org/A5068727780",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2015,
+        2016
+      ],
+      "fields": [
+        "Business",
+        "Intermediary"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5064693182",
+      "weight": 2,
+      "with_ego": true,
+      "years": [
+        2015,
+        2016
+      ],
+      "fields": [
+        "Business",
+        "Intermediary"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5054415777",
+      "target": "https://openalex.org/A5087734634",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5063215819",
+      "target": "https://openalex.org/A5087734634",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5054616837",
+      "target": "https://openalex.org/A5087734634",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5053606241",
+      "target": "https://openalex.org/A5087734634",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5042838583",
+      "target": "https://openalex.org/A5087734634",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010104735",
+      "target": "https://openalex.org/A5087734634",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5012174596",
+      "target": "https://openalex.org/A5087734634",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5039408094",
+      "target": "https://openalex.org/A5087734634",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5015257271",
+      "target": "https://openalex.org/A5087734634",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5007379202",
+      "target": "https://openalex.org/A5087734634",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5054415777",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5063215819",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5054616837",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5053606241",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5042838583",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5010104735",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5012174596",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5039408094",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5015257271",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5007379202",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5054415777",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5063215819",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5054616837",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5053606241",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5042838583",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010104735",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5012174596",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5039408094",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5015257271",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5007379202",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5054415777",
+      "target": "https://openalex.org/A5063215819",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5054415777",
+      "target": "https://openalex.org/A5054616837",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5053606241",
+      "target": "https://openalex.org/A5054415777",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5042838583",
+      "target": "https://openalex.org/A5054415777",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010104735",
+      "target": "https://openalex.org/A5054415777",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5012174596",
+      "target": "https://openalex.org/A5054415777",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5039408094",
+      "target": "https://openalex.org/A5054415777",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5015257271",
+      "target": "https://openalex.org/A5054415777",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5007379202",
+      "target": "https://openalex.org/A5054415777",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5054616837",
+      "target": "https://openalex.org/A5063215819",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5053606241",
+      "target": "https://openalex.org/A5063215819",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5042838583",
+      "target": "https://openalex.org/A5063215819",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010104735",
+      "target": "https://openalex.org/A5063215819",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5012174596",
+      "target": "https://openalex.org/A5063215819",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5039408094",
+      "target": "https://openalex.org/A5063215819",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5015257271",
+      "target": "https://openalex.org/A5063215819",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5007379202",
+      "target": "https://openalex.org/A5063215819",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5053606241",
+      "target": "https://openalex.org/A5054616837",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5042838583",
+      "target": "https://openalex.org/A5054616837",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010104735",
+      "target": "https://openalex.org/A5054616837",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5012174596",
+      "target": "https://openalex.org/A5054616837",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5039408094",
+      "target": "https://openalex.org/A5054616837",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5015257271",
+      "target": "https://openalex.org/A5054616837",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5007379202",
+      "target": "https://openalex.org/A5054616837",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5042838583",
+      "target": "https://openalex.org/A5053606241",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010104735",
+      "target": "https://openalex.org/A5053606241",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5012174596",
+      "target": "https://openalex.org/A5053606241",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5039408094",
+      "target": "https://openalex.org/A5053606241",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5015257271",
+      "target": "https://openalex.org/A5053606241",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5007379202",
+      "target": "https://openalex.org/A5053606241",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010104735",
+      "target": "https://openalex.org/A5042838583",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5012174596",
+      "target": "https://openalex.org/A5042838583",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5039408094",
+      "target": "https://openalex.org/A5042838583",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5015257271",
+      "target": "https://openalex.org/A5042838583",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5007379202",
+      "target": "https://openalex.org/A5042838583",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010104735",
+      "target": "https://openalex.org/A5012174596",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010104735",
+      "target": "https://openalex.org/A5039408094",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5010104735",
+      "target": "https://openalex.org/A5015257271",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5007379202",
+      "target": "https://openalex.org/A5010104735",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5012174596",
+      "target": "https://openalex.org/A5039408094",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5012174596",
+      "target": "https://openalex.org/A5015257271",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5007379202",
+      "target": "https://openalex.org/A5012174596",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5015257271",
+      "target": "https://openalex.org/A5039408094",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5007379202",
+      "target": "https://openalex.org/A5039408094",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5007379202",
+      "target": "https://openalex.org/A5015257271",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2016
+      ],
+      "fields": [
+        "Resilience (materials science)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001214979",
+      "target": "https://openalex.org/A5070468952",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Sociality"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5070468952",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Sociality"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5058356865",
+      "target": "https://openalex.org/A5086731887",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5058356865",
+      "target": "https://openalex.org/A5078807791",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5001722310",
+      "target": "https://openalex.org/A5058356865",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5058356865",
+      "target": "https://openalex.org/A5069665260",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5058356865",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5026065319",
+      "target": "https://openalex.org/A5058356865",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5011469490",
+      "target": "https://openalex.org/A5058356865",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5024753832",
+      "target": "https://openalex.org/A5078807791",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5024753832",
+      "target": "https://openalex.org/A5069665260",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5024753832",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5024753832",
+      "target": "https://openalex.org/A5026065319",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5011469490",
+      "target": "https://openalex.org/A5024753832",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5024753832",
+      "target": "https://openalex.org/A5086731887",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Food waste"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5020128244",
+      "target": "https://openalex.org/A5065726413",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Production (economics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5028387518",
+      "target": "https://openalex.org/A5065726413",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Production (economics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5065726413",
+      "target": "https://openalex.org/A5075799379",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Production (economics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5038211904",
+      "target": "https://openalex.org/A5065726413",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Production (economics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5065726413",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Production (economics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5020128244",
+      "target": "https://openalex.org/A5028387518",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Production (economics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5020128244",
+      "target": "https://openalex.org/A5075799379",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Production (economics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5020128244",
+      "target": "https://openalex.org/A5038211904",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Production (economics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5020128244",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Production (economics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5028387518",
+      "target": "https://openalex.org/A5075799379",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Production (economics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5028387518",
+      "target": "https://openalex.org/A5038211904",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Production (economics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5028387518",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Production (economics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5038211904",
+      "target": "https://openalex.org/A5075799379",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Production (economics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5075799379",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Production (economics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5038211904",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2017
+      ],
+      "fields": [
+        "Production (economics)"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5022437661",
+      "target": "https://openalex.org/A5086651579",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2019
+      ],
+      "fields": [
+        "Business"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5022437661",
+      "target": "https://openalex.org/A5030973042",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2019
+      ],
+      "fields": [
+        "Business"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5022437661",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2019
+      ],
+      "fields": [
+        "Business"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5009652126",
+      "target": "https://openalex.org/A5022437661",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2019
+      ],
+      "fields": [
+        "Business"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5035375830",
+      "target": "https://openalex.org/A5072560560",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Data science"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5040337779",
+      "target": "https://openalex.org/A5072560560",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Data science"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5051525389",
+      "target": "https://openalex.org/A5072560560",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Data science"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5040844400",
+      "target": "https://openalex.org/A5072560560",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Data science"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5072560560",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Data science"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5035375830",
+      "target": "https://openalex.org/A5040337779",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Data science"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5035375830",
+      "target": "https://openalex.org/A5051525389",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Data science"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5035375830",
+      "target": "https://openalex.org/A5040844400",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Data science"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5035375830",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Data science"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5040337779",
+      "target": "https://openalex.org/A5051525389",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Data science"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5040337779",
+      "target": "https://openalex.org/A5040844400",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Data science"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5040337779",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Data science"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5040844400",
+      "target": "https://openalex.org/A5051525389",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Data science"
+      ]
+    },
+    {
+      "source": "https://openalex.org/A5004798560",
+      "target": "https://openalex.org/A5051525389",
+      "weight": 1,
+      "with_ego": true,
+      "years": [
+        2022
+      ],
+      "fields": [
+        "Data science"
+      ]
+    }
+  ]
+}
